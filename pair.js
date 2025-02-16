@@ -58,8 +58,8 @@ router.get('/', async (req, res) => {
 
                let GIFTED_MD_TEXT = `
 ┏━━━━━━━━━━━━━━
-┃MASTER BOT EST 
-┃CONNECTÉ AVEC SUCCÈS✅
+┃MASTERMIND V1 IS
+┃CONNECTED SUCCESSFULY✅
 ┗━━━━━━━━━━━━━━━
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 || Creator = 𖥘𒋲𝑴𝑨𝑺𝑻𝑬𝑹𝑴𝑰𝑵𝑫𒋲𖥘
